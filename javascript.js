@@ -27,4 +27,4 @@ var lang = {
             $('.navbar').removeClass('active');
         }
     });
-});
+  });
