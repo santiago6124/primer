@@ -1,0 +1,37 @@
+.navbar {
+    transition: all 0.4s;
+}
+
+.navbar .nav-link {
+    color: #fff;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+    color: #fb6f4cff;
+    text-decoration: none;
+}
+
+.navbar .navbar-brand {
+    color: #fb6f4cff;
+}
+
+
+/* mientras se scrollea*/
+.navbar.active {
+    background: rgb(0, 0, 0);
+}
+
+.navbar.active .nav-link {
+    color: rgb(255, 255, 255);
+}
+
+.navbar.active .nav-link:hover,
+.navbar.active .nav-link:focus {
+    color: #fb6f4cff;
+    text-decoration: none;
+}
+
+.navbar.active .navbar-brand {
+    color: #fb6f4cff;
+}
