@@ -5,7 +5,7 @@ html {
 }
 
 #intro {
-    background: #151515 url(b-n-portada-negro.jpg) no-repeat center bottom;
+    background: #151515 url(src/b-n-portada-negro.jpg) no-repeat center bottom;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
