@@ -3,7 +3,7 @@ body, html {
 	margin: 0;
   }
   #intro {
-	background: #151515 url(/src/portada-villcoin-01.jpg) no-repeat center bottom;
+	background: #151515 url(portada-villcoin-01.jpg) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -22,7 +22,7 @@ body, html {
 	width: 100%;
 	height: 100%;
 	background: #111111;
-	opacity: .85;
+	opacity: .50;
 }
 
 .intro-content {
